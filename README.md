@@ -105,3 +105,10 @@ The project is going to answer the following questions:
 
 - It makes sense, as from my own anecdotal experience incongruent words requires more time for recognition as the words displayed are color words whose names do not match the colors in which they are printed.
 
+
+<a id='License'></a>
+
+## License 
+
+
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://github.com/Shilin0806/Test_a_Perceptual_Phenomenon/blob/master/LICENSE)
