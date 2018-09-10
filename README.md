@@ -58,7 +58,7 @@ The project is going to answer the following questions:
 - 2 What is an appropriate set of hypotheses for this task? Specify the null and alternative hypotheses based on what we think the researchers might be interested in. Justify our choices.
 
 
-- - We can try out the [Stroop task](https://faculty.washington.edu/chudler/java/ready.html) for better understanding.
+  - We can try out the [Stroop task](https://faculty.washington.edu/chudler/java/ready.html) for better understanding.
 
 
 - 3 Report some descriptive statistics regarding this dataset. Include at least one measure of central tendency and at least one measure of variability.
